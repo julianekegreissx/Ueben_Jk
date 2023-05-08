@@ -1,0 +1,12 @@
+from,to,weight,relationship
+Juliane,Janis,3,Bzh
+Juliane,Mama,3,Fam
+Juliane,Papa,3,Fam
+Janis,Mama,2,Fre
+Janis,Papa,2,Fre
+Mama,Juliane,3,Fam
+Mama,Papa,3,Bzh
+Mama,Janis,2,Fre
+Papa,Juliane,3,Fam
+Papa,Mama,3,Fam
+Papa,Janis,2,Fre
